@@ -13,6 +13,16 @@ I built an interactive Bank Loan Risk Analysis Dashboard in Power BI with KPIs s
 
  <h1>Home Page</h1> <p>The Home page gives an overview of key KPIs like Total Clients, Loans, and Deposits, with navigation buttons and slicers (year, gender) for quick, interactive filtering across the dashboard.</p>
 <img width="1163" height="656" alt="Screenshot 2025-08-19 225740" src="https://github.com/user-attachments/assets/35605e3e-22ed-4b3a-911c-6d7767874c06" />
+
+<h1> Loan Page Analysis</h1>
+<p>The Loan Analysis page provides detailed insights into loan distribution, risk categories, and client profiles, using interactive charts, KPIs, and slicers to identify high-risk segments and lending trends.</p>
 <img width="1167" height="648" alt="Screenshot 2025-08-19 225757" src="https://github.com/user-attachments/assets/e07b93c3-c0be-4210-b2ce-4395fbc5f32b" />
+
+<h1>Deposit Analysis </h1>
+<p>The Deposit Analysis page highlights client deposit trends and patterns across categories and time, with visualizations, KPIs, and slicers for dynamic exploration and comparison.</p>
 <img width="1163" height="654" alt="Screenshot 2025-08-19 225842" src="https://github.com/user-attachments/assets/b52d17ec-2ea7-4b59-a7df-3d0df268899d" />
+
+<h1> Summary Page </h1>
+<p>The Summary page consolidates key insights from loans and deposits, presenting comparative KPIs, trend visuals, and filters to provide a clear overview for decision-making.</p>
 <img width="1166" height="655" alt="Screenshot 2025-08-19 225826" src="https://github.com/user-attachments/assets/cacef8ec-27bd-4581-8827-bc35e620f31a" />
+
