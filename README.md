@@ -1,4 +1,4 @@
-# Loan-Analysis-Dashboard
+
 <H1> Bank Loan Analysis</H1>
 
 I built an interactive Bank Loan Risk Analysis Dashboard in Power BI with KPIs such as Total Clients, Loans, and Deposits, supported by custom DAX measures. The project included data cleaning, feature selection, and EDA in Power Query, along with dynamic slicers for customer segmentation. Multiple drill-through pages and visualizations enabled stakeholders to identify high-risk segments and make data-driven lending decisions.
